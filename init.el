@@ -16,7 +16,7 @@
 
 (require 'color-theme)
 (color-theme-initialize)
-(color-theme-calm-forest)
+;(color-theme-calm-forest)
 
 (linum-mode)
 
